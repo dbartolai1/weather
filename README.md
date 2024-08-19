@@ -13,3 +13,10 @@
 - Attach the Weather and Settings views to their respective tabs
 - Currently, the coordinates of user are printed to the console when the app is run
 
+## Third Commit (Part 3)
+- Set up a table in the Settings View
+- Set up an enum with cases for each setting in the View Model
+- Table reads the enum to display each setting
+- All of that is perpetuated in the view controller
+- Attempted to fetch weather from weather manager, but reaching some issues in that regard
+

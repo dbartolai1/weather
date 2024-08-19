@@ -20,6 +20,7 @@
 		900E33962C72E078006F45B0 /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900E33952C72E078006F45B0 /* TabViewController.swift */; };
 		900E33992C730E84006F45B0 /* CurrentWeatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900E33982C730E84006F45B0 /* CurrentWeatherView.swift */; };
 		900E339B2C730ECB006F45B0 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900E339A2C730ECB006F45B0 /* SettingsView.swift */; };
+		900E339D2C7321ED006F45B0 /* SettingsViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 900E339C2C7321ED006F45B0 /* SettingsViewViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		900E33972C72E41C006F45B0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		900E33982C730E84006F45B0 /* CurrentWeatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherView.swift; sourceTree = "<group>"; };
 		900E339A2C730ECB006F45B0 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		900E339C2C7321ED006F45B0 /* SettingsViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		900E33882C72DE63006F45B0 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				900E339C2C7321ED006F45B0 /* SettingsViewViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				900E33992C730E84006F45B0 /* CurrentWeatherView.swift in Sources */,
 				900E33942C72DFEA006F45B0 /* SettingsViewController.swift in Sources */,
 				900E339B2C730ECB006F45B0 /* SettingsView.swift in Sources */,
+				900E339D2C7321ED006F45B0 /* SettingsViewViewModel.swift in Sources */,
 				900E33902C72DEE1006F45B0 /* IAPManager.swift in Sources */,
 				900E33742C72DC0F006F45B0 /* WeatherViewController.swift in Sources */,
 				900E33702C72DC0F006F45B0 /* AppDelegate.swift in Sources */,
