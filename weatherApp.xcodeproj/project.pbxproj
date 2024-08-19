@@ -35,6 +35,7 @@
 		900E33912C72DEFB006F45B0 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		900E33932C72DFEA006F45B0 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		900E33952C72E078006F45B0 /* TabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
+		900E33972C72E41C006F45B0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		900E33632C72DC0F006F45B0 = {
 			isa = PBXGroup;
 			children = (
+				900E33972C72E41C006F45B0 /* README.md */,
 				900E336E2C72DC0F006F45B0 /* weatherApp */,
 				900E336D2C72DC0F006F45B0 /* Products */,
 				900E33832C72DD30006F45B0 /* Frameworks */,
